@@ -13,3 +13,6 @@ The super store wants to see and analyze the sales trend month-wise and product-
 10.	Analyzing Shipping priority share.
 
 Aim of this project is to answer the above objectives in the form of visualization by creating a dashboard to convey the answers effectively and efficiently.
+
+
+![image](https://github.com/Aya170-BYTE/Project1/assets/148428890/12594534-c72a-4f97-89c7-d79f0bc960d4)
