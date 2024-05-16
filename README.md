@@ -1,4 +1,4 @@
-SALES ANALYSIS OF SUPERSTORE
+### SALES ANALYSIS OF SUPERSTORE
 SCOPE OF ANALYSIS
 The super store wants to see and analyze the sales trend month-wise and product-wise and work upon the lagging segments and outperforming employees accordingly. The Analytics team also wants to create analyze the database in depth to help the super store grow exponentially. The Analytics team wishes to answer the following objectives: -
 1.	Sales, Quantity and Profit of each product category
@@ -12,7 +12,7 @@ The super store wants to see and analyze the sales trend month-wise and product-
 9.	Comparison of sales and profit product category wise
 10.	Analyzing Shipping priority share.
 
-Aim of this project is to answer the above objectives in the form of visualization by creating a dashboard to convey the answers effectively and efficiently.
+#### Aim of this project is to answer the above objectives in the form of visualization by creating a dashboard to convey the answers effectively and efficiently.
 
 
 ![image](https://github.com/Aya170-BYTE/Project1/assets/148428890/12594534-c72a-4f97-89c7-d79f0bc960d4)
